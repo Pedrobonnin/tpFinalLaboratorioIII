@@ -1,0 +1,28 @@
+{
+  "producto": [
+    {
+      "id": 1,
+      "nombre": "celular",
+      "precio": "1231",
+      "numero": "1"
+    },
+    {
+      "id": 2,
+      "nombre": "celular",
+      "precio": "333",
+      "numero": "2"
+    },
+    {
+      "id": 3,
+      "nombre": "celular",
+      "precio": "123",
+      "numero": "3"
+    },
+    {
+      "id": 4,
+      "nombre": "celular",
+      "precio": "333",
+      "numero": "4"
+    }
+  ]
+}
